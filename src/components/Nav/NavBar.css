@@ -7,7 +7,7 @@
     justify-content: space-between;
     width: 100%;
     padding:20px;
-
+    max-width: 100vw;
     /* Animations */
     transition-timing-function: ease-in;
     transition: all 0.5s;
