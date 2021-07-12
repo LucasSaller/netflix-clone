@@ -1,10 +1,11 @@
-import logo from "./logo.svg";
 import "./App.css";
-
+import NavBar from "./components/Nav/NavBar";
+import Banner from "./components/Banner/Banner";
 function App() {
   return (
     <div className="App">
-      <h1>Netflix Clone</h1>
+      <NavBar />
+      <Banner />
     </div>
   );
 }
