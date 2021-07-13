@@ -3,6 +3,7 @@ import NavBar from "./components/Nav/NavBar";
 import Banner from "./components/Banner/Banner";
 import Row from "./components/Row/Row";
 import { requests } from "./requests";
+
 const rows = [
   {
     title: "Netflix Originals",
